@@ -1,0 +1,4 @@
+Solve sudokus, as constraint satisfaction problems
+
+Tries first with AC-3 algorithm, and if a solution 
+is not found uses backtracking.

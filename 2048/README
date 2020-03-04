@@ -1,0 +1,11 @@
+NB: My code is only in PlayerAI.py
+
+Plays the "2048" game against the computer.
+Implemented as an adversarial game, with the minimax 
+algorithm plus alpha-beta pruning.
+Uses heuristics to assign a utility to a given state.
+
+USAGE:
+python2 GameManager.py
+
+

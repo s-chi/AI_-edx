@@ -1,0 +1,22 @@
+Solves the 8-puzzle with DFS, BFS, or A* algorithm, 
+assuming the initial configuration is solvable
+(no checks).
+Produces a file "output.txt" with the moves to solve the puzzle and statistics.
+
+It should also work with n-puzzles of higher dimension.
+
+USAGE:
+
+python2 puzzle.py [ALGORITHM] [CONFIGURATION]
+
+where 
+ALGORITHM can be one of bfs, dfs, ast
+and
+CONFIGURATION is a list of comma separated digits giving the initial configuration of the puzzle
+
+EXAMPLE:
+
+python2 puzzle.py bfs 5,6,3,7,4,2,1,8,0
+
+
+

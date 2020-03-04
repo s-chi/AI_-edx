@@ -1,0 +1,9 @@
+Sentiment analysis:
+
+Trains a Stochastic Gradient Descent Classifier to classify movie reviews with data from
+
+"Large Movie Review Dataset" (not in repository, download from http://ai.stanford.edu/~amaas/data/sentiment/aclImdb_v1.tar.gz)
+
+according to positive or negative sentiment.
+
+Uses the scikit-learn library

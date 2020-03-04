@@ -1,0 +1,10 @@
+experimenting with the scikit-learn library
+
+takes as input a csv file with training data, points in the plane with label 0 or 1
+
+classifies the plane with various methods
+plots the results with matplotlib
+and writes the accuracy results for each method in the output file
+ 
+USAGE:
+python2 classifier.py input.csv output.csv
